@@ -81,21 +81,6 @@ You will usually want to write tests for your changes.  To run the test suite, g
 
 If you are building your first Rails application, we recommend you to *not* use Devise. Devise requires a good understanding of the Rails Framework. In such cases, we advise you to start a simple authentication system from scratch, today we have two resources:
 
-* Michael Hartl's online book: http://railstutorial.org/chapters/modeling-and-viewing-users-two#top
-* Ryan Bates' Railscast: http://railscasts.com/episodes/250-authentication-from-scratch
-
-Once you have solidified your understanding of Rails and authentication mechanisms, we assure you Devise will be very pleasant to work with. :)
-
-## Getting started
-
-Devise 2.0 works with Rails 3.1 onwards. You can add it to your Gemfile with:
-
-```ruby
-gem 'devise'
-```
-
-Run the bundle command to install it.
-
 After you install Devise and add it to your Gemfile, you need to run the generator:
 
 ```console
