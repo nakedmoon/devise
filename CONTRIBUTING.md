@@ -8,5 +8,9 @@
 
 That's it! The more information you give, the more easy it becomes for us to track it down and fix it. Ideal scenario would be adding the issue to Devise test suite or to a sample application.
 
+test1
+test2
+test3
+
 Thanks!
 
