@@ -7,12 +7,6 @@ INFO: This README is [also available in a friendly navigable format](http://devi
 [![Build Status](https://secure.travis-ci.org/plataformatec/devise.png)](http://travis-ci.org/plataformatec/devise) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/plataformatec/devise)
 
 Test
-
-Devise is a flexible authentication solution for Rails based on Warden. It:
-
-* Is Rack based;
-* Is a complete MVC solution based on Rails engines;
-* Allows you to have multiple roles (or models/scopes) signed in at the same time;
 * Is based on a modularity concept: use just what you really need.
 
 It's composed of 12 modules:
