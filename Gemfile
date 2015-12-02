@@ -14,6 +14,9 @@ group :test do
   gem "mocha", :require => false
 end
 
+#
+#
+
 platforms :jruby do
   gem "activerecord-jdbc-adapter"
   gem "activerecord-jdbcsqlite3-adapter"
