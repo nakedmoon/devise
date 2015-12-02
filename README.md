@@ -1,13 +1,15 @@
 *IMPORTANT:* Devise 2.1 is out. If you are upgrading, please read: https://github.com/plataformatec/devise/wiki/How-To:-Upgrade-to-Devise-2.1
 
 ## Devise
-
 INFO: This README is [also available in a friendly navigable format](http://devise.plataformatec.com.br/).
-
 [![Build Status](https://secure.travis-ci.org/plataformatec/devise.png)](http://travis-ci.org/plataformatec/devise) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/plataformatec/devise)
 
 Test
-* Is based on a modularity concept: use just what you really need.
+TEST1
+test2
+test3
+test4
+test5
 
 It's composed of 12 modules:
 
