@@ -31,15 +31,9 @@ It's composed of 12 modules:
 
 ## Information
 
+TEST
 ### The Devise wiki
-
-The Devise Wiki has lots of additional information about Devise including many "how-to" articles and answers to the most frequently asked questions. Please browse the Wiki after finishing this README:
-
-https://wiki.github.com/plataformatec/devise
-
-### Bug reports
-
-If you discover a problem with Devise, we would like to know about it. However, we ask that you please review these guidelines before submitting a bug report:
+ we ask that you please review these guidelines before submitting a bug report:
 
 https://github.com/plataformatec/devise/wiki/Bug-reports
 
@@ -55,6 +49,7 @@ https://groups.google.com/group/plataformatec-devise
 
 You can view the Devise documentation in RDoc format here:
 
+test
 http://rubydoc.info/github/plataformatec/devise/master/frames
 
 If you need to use Devise with Rails 2.3, you can always run "gem server" from the command line after you install the gem to access the old documentation.
